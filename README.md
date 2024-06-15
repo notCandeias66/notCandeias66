@@ -3,7 +3,7 @@
 
 - 📚 I’m currently in **MSc in Telecommunications and Computer Engineering at ISCTE**
 
-- 📫 How to reach me **aefcs@iscte-iul.pt**
+- 📫 How to reach me **candeiasafonso@gmail.com**
 
 - 📄 Know about my experiences [http://tinyurl.com/AfonsoCandeiasCV](http://tinyurl.com/AfonsoCandeiasCV)
 
