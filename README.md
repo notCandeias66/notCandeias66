@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Afonso Candeias</h1>
 <h3 align="center">A passionate student from Portugal</h3>
 
-- 📚 I’m currently in **MSc in Telecommunications and Computer Engineering at ISCTE**
+- 📚 Just finished my **MSc in Telecommunications and Computer Engineering at ISCTE**
 
 - 📫 How to reach me **candeiasafonso@gmail.com**
 
