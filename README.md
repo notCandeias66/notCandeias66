@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **candeiasafonso@gmail.com**
 
-- 📄 Know about my experiences: [https://drive.google.com/file/d/1NH4BWk-3qjct0uptEI6HBtbcAiomb8RE/view?usp=drive_link]
+- 📄 Know about my experiences: [[https://drive.google.com/file/d/1NH4BWk-3qjct0uptEI6HBtbcAiomb8RE/view?usp=drive_link](https://tinyurl.com/2jyxm2pr)]
 - ⚡ Fun fact **I play basketball in Portugal**
 
 <h3 align="left">Connect with me:</h3>
