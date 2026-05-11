@@ -45,9 +45,3 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-
-📊 Stats
----
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notCandeias66&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
