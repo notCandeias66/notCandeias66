@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-  <a href="https://linkedin.com/in/afonso-ef-candeias"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;<a     href="mailto:candeiasafonso@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;<a href="https://tinyurl.com/mr3kz387"><img src="https://img.shields.io/badge/My%20CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/afonso-ef-candeias"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;<a     href="mailto:candeiasafonso@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;<a href="https://tinyurl.com/yeyknrs6"><img src="https://img.shields.io/badge/My%20CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
 </div>
 
 🚀 Featured Projects
